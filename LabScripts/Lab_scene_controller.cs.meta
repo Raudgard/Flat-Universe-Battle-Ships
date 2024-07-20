@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6bfe3aae5a5c7e449a9648c9b0359b31
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - armorGeneSprite: {fileID: 21300000, guid: 37315f3a595dafb4f823671891ca0431, type: 3}
+  - attackGeneSprite: {fileID: 21300000, guid: d53b7c3aa5d371949af0fe44f2e6108c, type: 3}
+  - attackSpeedGeneSprite: {fileID: 21300000, guid: 9e04d4590e88b444dbed59472d448e31,
+      type: 3}
+  - HealthGeneSprite: {fileID: 21300000, guid: 6e7b49f25a98ebd4b981a5d07f1d0550, type: 3}
+  - movementSpeedGeneSprite: {fileID: 21300000, guid: 09c81a2af5f63094198ab89276c8b01d,
+      type: 3}
+  - geneIconPrefab: {fileID: 3603046744034184354, guid: 9d82fdcb742f48a41bd508e99d78bada,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

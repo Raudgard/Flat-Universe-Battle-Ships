@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1c8a2588624494c448b691d336bfc115
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GeneIcon: {fileID: 21300000, guid: 6e7b49f25a98ebd4b981a5d07f1d0550, type: 3}
+  - healthGeneSprite: {fileID: 21300000, guid: 6e7b49f25a98ebd4b981a5d07f1d0550, type: 3}
+  executionOrder: 50
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
